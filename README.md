@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hello There! General Kenobi, I am Yuri Poledna
+
+I am a Reseach Fellow, with experience in Hardware in the Loop, Vehicle in the loop, deep experience in Python, C++, Bare metal installation, Java, MATLAB, Simulink, git environments. I do sensor models in carla, and i have a lot of things that are NDA'ed saddly.
+
+I have also created the [ROADVIEW Project github organization](https://github.com/roadview-project/). And implemented unit testing in some repositories.
+
+Born in the python interpreters and gcc compiler, I have always been interesting new topics, thats why i like a lot about rockets, planes, and NUCLEAR FUSION.
+I expect for this century to exceed our collective wildest dreams.
+
+Ask me about about rockets, planes, nuclear fusion, or cars, or anything.
 
 <!--
 **poledna/poledna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
